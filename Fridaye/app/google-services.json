@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212509680595",
+    "project_id": "ffffffff-42ae7",
+    "storage_bucket": "ffffffff-42ae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212509680595:android:a99ab295bd63f5a3508526",
+        "android_client_info": {
+          "package_name": "com.example.fridaye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdafrVu3yvIhqcRrI8nwW8oveGnzrRDfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
